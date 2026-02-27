@@ -4,4 +4,4 @@
  * Order by last name.
  */
 
-select first_name, last_name, address.address as street_address from staff join address on staff.address_id = address.address_id;
+select first_name, last_name, address.address as street_address from staff join address on staff.address_id = address.address_id order by last_name asc;
