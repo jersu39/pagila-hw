@@ -1,4 +1,4 @@
-# pagila-hw ![https://github.com/jersu39/pagila-hw/actions/workflows/tests.yml/badge.svg](https://github.com/jersu39/pagila-hw/actions?query=workflow%3Atests)
+# pagila-hw [![](https://github.com/jersu39/pagila-hw/actions/workflows/tests.yml/badge.svg)](https://github.com/jersu39/pagila-hw/actions?query=workflow%3Atests)
 
 ## Background
 
